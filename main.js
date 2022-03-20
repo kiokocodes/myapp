@@ -1,3 +1,1 @@
-console.log('Hallo Welt!');
-console.error('Diese ist ein Fehler!');
-console.warn('Diese ist ein Warnung');
+alert("Hallo und Wilkommen.Mein name ist kioko und du mochtest deutsch lernen");
